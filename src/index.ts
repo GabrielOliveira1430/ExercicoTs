@@ -6,6 +6,6 @@ class Estudante extends PessoaBase {
   }
 }
 
-const estudante = new Estudante("Gabriel", 25);
+const estudante = new Estudante("Gabriel Oliveira", 25);
 estudante.apresentar();
-estudante.falar();
+estudante.falar();//   Saída: "Gabriel Oliveira está estudando TypeScript!"
