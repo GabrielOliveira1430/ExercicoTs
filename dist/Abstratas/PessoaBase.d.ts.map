@@ -1,0 +1,1 @@
+{"version":3,"file":"PessoaBase.d.ts","sourceRoot":"","sources":["../../src/Abstratas/PessoaBase.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,uBAAuB,CAAC;AAEhD,8BAAsB,UAAW,YAAW,OAAO;IAC9B,IAAI,EAAE,MAAM;IAAS,KAAK,EAAE,MAAM;gBAAlC,IAAI,EAAE,MAAM,EAAS,KAAK,EAAE,MAAM;IAErD,QAAQ,CAAC,KAAK,IAAI,IAAI;IAEtB,UAAU,IAAI,IAAI;CAGnB"}

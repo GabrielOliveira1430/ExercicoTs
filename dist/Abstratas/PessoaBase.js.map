@@ -1,0 +1,1 @@
+{"version":3,"file":"PessoaBase.js","sourceRoot":"","sources":["../../src/Abstratas/PessoaBase.ts"],"names":[],"mappings":";;;AAEA,MAAsB,UAAU;IAC9B,YAAmB,IAAY,EAAS,KAAa;QAAlC,SAAI,GAAJ,IAAI,CAAQ;QAAS,UAAK,GAAL,KAAK,CAAQ;IAAG,CAAC;IAIzD,UAAU;QACR,OAAO,CAAC,GAAG,CAAC,mBAAmB,IAAI,CAAC,IAAI,YAAY,IAAI,CAAC,KAAK,QAAQ,CAAC,CAAC;IAC1E,CAAC;CACF;AARD,gCAQC"}
